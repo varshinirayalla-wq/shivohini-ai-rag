@@ -1,0 +1,41 @@
+Service Name: RAG Knowledge Base System
+
+Category: AI Services
+
+Description:
+Enterprise knowledge base powered by Retrieval-Augmented Generation.
+
+Features:
+Semantic Search
+Vector Search
+Metadata Filtering
+Document Retrieval
+
+Benefits:
+Accurate Responses
+Reduced Hallucinations
+Improved Knowledge Access
+
+Deliverables:
+Knowledge Base
+Vector Database
+Retrieval API
+
+Pricing Information:
+Custom Pricing
+
+Implementation Process:
+Data Collection
+Metadata Extraction
+Embedding Generation
+Vector Indexing
+Deployment
+
+Timeline:
+6 Weeks
+
+Technical Details:
+ChromaDB
+Sentence Transformers
+FastAPI
+Metadata Assisted Retrieval

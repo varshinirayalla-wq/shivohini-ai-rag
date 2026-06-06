@@ -1,0 +1,9 @@
+Team Information:
+
+AI Engineers
+Backend Developers
+Frontend Developers
+Data Engineers
+Project Managers
+Business Analysts
+UI/UX Designers

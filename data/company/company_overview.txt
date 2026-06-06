@@ -1,0 +1,18 @@
+Company Name: Shivohini AI
+
+Overview:
+Shivohini AI provides AI-powered chatbot solutions, workflow automation, AI integrations, and knowledge management systems for businesses.
+
+Industries Served:
+Real Estate
+Healthcare
+Retail
+Education
+Finance
+
+Core Services:
+AI Chatbots
+Workflow Automation
+Knowledge Base Systems
+RAG Solutions
+Custom AI Applications

@@ -1,0 +1,45 @@
+Service Name: AI Chatbot Development
+
+Category: AI Services
+
+Description:
+Development of intelligent AI-powered chatbots for websites, WhatsApp, Facebook Messenger, and custom platforms.
+
+Features:
+Lead Qualification
+Appointment Booking
+Knowledge Base Search
+Multi-language Support
+Human Handoff
+
+Benefits:
+24/7 Customer Support
+Reduced Manual Work
+Improved Lead Conversion
+Faster Response Times
+
+Deliverables:
+Chatbot Application
+Admin Dashboard
+Analytics Reports
+Knowledge Base Integration
+
+Pricing Information:
+Starting from 1000 USD
+
+Implementation Process:
+Requirement Gathering
+Conversation Design
+Development
+Testing
+Deployment
+
+Timeline:
+4 Weeks
+
+Technical Details:
+Python
+FastAPI
+ChromaDB
+Sentence Transformers
+RAG Architecture

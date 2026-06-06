@@ -1,0 +1,12 @@
+Case Study: Real Estate Lead Automation
+
+Problem:
+Manual lead qualification was consuming significant time and resources.
+
+Solution:
+Implemented an AI-powered chatbot integrated with CRM systems.
+
+Results:
+50% reduction in manual effort.
+30% increase in lead conversion.
+24/7 customer engagement.
