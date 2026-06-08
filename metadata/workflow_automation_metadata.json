@@ -1,0 +1,19 @@
+{
+  "service_name": "Workflow Automation",
+  "category": "Business Automation",
+  "industry": "General",
+  "tags": [
+    "workflow",
+    "automation",
+    "process"
+  ],
+  "pricing_range": "50000-150000",
+  "timeline": "2-4 weeks",
+  "complexity": "Medium",
+  "image_urls": [],
+  "pdf_urls": [],
+  "presentation_urls": [],
+  "video_urls": [],
+  "source": "data/services/automation_service.txt",
+  "document_type": "service"
+}

@@ -1,0 +1,23 @@
+{
+  "service_name": "Company Information",
+  "category": "Company",
+  "industry": "General",
+  "tags": [
+    "company",
+    "overview",
+    "about"
+  ],
+
+  "pricing_range": "",
+  "timeline": "",
+  "complexity": "",
+
+  "image_urls": [],
+  "pdf_urls": [],
+  "presentation_urls": [],
+  "video_urls": [],
+
+  "source": "data/company/company_overview.txt",
+  "last_updated": "2026-06-08",
+  "document_type": "company"
+}

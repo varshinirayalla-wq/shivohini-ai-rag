@@ -1,0 +1,35 @@
+{
+  "service_name": "AI Chatbot",
+  "category": "Conversational AI",
+  "industry": "Healthcare",
+
+  "tags": [
+    "chatbot",
+    "customer support",
+    "automation"
+  ],
+
+  "pricing_range": "50000-200000",
+  "timeline": "4-6 weeks",
+  "complexity": "Medium",
+
+  "image_urls": [
+    "media/images/chatbot_architecture.png"
+  ],
+
+  "pdf_urls": [
+    "media/pdfs/chatbot_brochure.pdf"
+  ],
+
+  "presentation_urls": [
+    "media/presentations/chatbot_pitch.pptx"
+  ],
+
+  "video_urls": [
+    "media/videos/chatbot_demo.mp4"
+  ],
+
+  "source": "data/services/ai_chatbot.txt",
+  "last_updated": "2026-06-08",
+  "document_type": "service"
+}

@@ -1,0 +1,19 @@
+{
+  "service_name": "RAG Solution",
+  "category": "Knowledge Management",
+  "industry": "General",
+  "tags": [
+    "rag",
+    "vector database",
+    "retrieval"
+  ],
+  "pricing_range": "100000-300000",
+  "timeline": "4-8 weeks",
+  "complexity": "High",
+  "image_urls": [],
+  "pdf_urls": [],
+  "presentation_urls": [],
+  "video_urls": [],
+  "source": "data/services/rag_service.txt",
+  "document_type": "service"
+}
