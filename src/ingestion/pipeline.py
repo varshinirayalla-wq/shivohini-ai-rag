@@ -1,5 +1,6 @@
 import os
 
+from src.media.media_validator import validate_media
 from src.ingestion.metadata_extractor import extract_metadata
 from src.ingestion.chunking import chunk_document
 from src.embedding.embedder import get_embedding
@@ -34,6 +35,7 @@ def ingest_file(file_path):
 
     metadata = extract_metadata(file_path)
     metadata = clean_metadata(metadata)
+    metadata = validate_media(metadata)
 
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
