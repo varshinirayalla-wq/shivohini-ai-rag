@@ -9,6 +9,30 @@
     "automation"
   ],
 
+  "use_cases": [
+    "Customer Support",
+    "Lead Generation",
+    "Appointment Booking",
+    "FAQ Automation",
+    "WhatsApp Assistant"
+  ],
+
+  "target_industries": [
+    "Healthcare",
+    "Real Estate",
+    "Education",
+    "Retail",
+    "Finance"
+  ],
+
+  "business_problems": [
+    "High support workload",
+    "Missed leads",
+    "Slow response times",
+    "Manual customer handling",
+    "Low lead conversion"
+  ],
+
   "pricing_range": "50000-200000",
   "timeline": "4-6 weeks",
   "complexity": "Medium",

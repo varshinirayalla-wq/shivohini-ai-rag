@@ -62,6 +62,11 @@ def retrieve(query, top_k=5, filters=None):
                 "category": metadata.get("category"),
                 "industry": metadata.get("industry"),
                 "tags": metadata.get("tags"),
+
+                "use_cases": metadata.get("use_cases"),
+                "target_industries": metadata.get("target_industries"),
+                "business_problems": metadata.get("business_problems"),
+
                 "pricing_range": metadata.get("pricing_range"),
                 "timeline": metadata.get("timeline"),
                 "complexity": metadata.get("complexity"),

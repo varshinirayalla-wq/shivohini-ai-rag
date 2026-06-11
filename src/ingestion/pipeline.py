@@ -36,6 +36,8 @@ def ingest_file(file_path):
     metadata = extract_metadata(file_path)
     metadata = clean_metadata(metadata)
     metadata = validate_media(metadata)
+    print("\nMETADATA BEING STORED:")
+    print(metadata)
 
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
@@ -50,7 +52,8 @@ def ingest_file(file_path):
         embedding = get_embedding(chunk)
 
         doc_id = f"{metadata.get('service_name', 'document')}_{i}"
-
+        print("METADATA BEING STORED:")
+        print(metadata)
         store_document(
             doc_id=doc_id,
             text=chunk,
